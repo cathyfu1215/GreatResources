@@ -27,6 +27,10 @@ I want to collect and keep track of the wonderful books, papers and essays that 
 * grokking algorithms by Aditya Y. Bhargava
 * The Algorithm Design Manual Second Edition by Steven S. Skiena
 
+## Become a better computer scientist/problem solver
+* Clean Code by Uncle Bob
+* The Missing README: A Guide for the New Software Engineer by Chris Riccomini and Dmitriy Ryaboy
+
 ## Systems
 * Computer Systems - A Programmer’s Perspective by Randal E. Bryant and David R. O’Hallaron
 
