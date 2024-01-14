@@ -7,6 +7,12 @@ I want to collect and keep track of the wonderful books, papers and essays that 
 * AoPS - alcumus
 * Discrete Mathematics An Open Introduction by Oscar Levin
 
+## Graphs
+* Pearls in Graph Theory
+
+
+## Writing Proof
+
 
 ## Python
 * Think Python HOW TO THINK LIKE A COMPUTER SCIENTIST by Allen B. Downey
@@ -21,7 +27,11 @@ I want to collect and keep track of the wonderful books, papers and essays that 
 ## C
 * https://www.learn-c.org/
 * K & R
+* Head First C by David Griffiths and Dawn Griffiths
 
+## Systems
+* [Dive Into Systems](https://diveintosystems.org/book/introduction.html)
+* Computer Systems - A Programmer’s Perspective by Randal E. Bryant and David R. O’Hallaron
 
 ## Algorithms
 * grokking algorithms by Aditya Y. Bhargava
@@ -30,9 +40,8 @@ I want to collect and keep track of the wonderful books, papers and essays that 
 ## Become a better computer scientist/problem solver
 * Clean Code by Uncle Bob
 * The Missing README: A Guide for the New Software Engineer by Chris Riccomini and Dmitriy Ryaboy
-
-## Systems
-* Computer Systems - A Programmer’s Perspective by Randal E. Bryant and David R. O’Hallaron
+* "编程之美"
+* 剑指offer I and II
 
 ## AI
 * Artificial Intelligence A Modern Approach Third Edition by Stuart J. Russell and Peter Norvig
